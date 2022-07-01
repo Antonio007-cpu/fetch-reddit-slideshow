@@ -1,0 +1,19 @@
+.slider{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    border: 2px solid navy;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.selector-for-some-widget{
+    box-sizing: content-box;
+}
+
+.carousel-slide{
+    display: flex;
+}
